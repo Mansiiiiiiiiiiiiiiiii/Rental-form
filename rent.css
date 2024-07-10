@@ -1,0 +1,35 @@
+button{
+    background-color: #4aea14;
+    color: red;
+    padding: 12px 20px;
+    border: 10px rgba(0, 0, 0, 0.951);
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+input[type="button"]:hover{
+    background-color: #4caf84;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+}
+.form{
+    padding: 5px 20px 15px 20px ;
+    background-color: #f2f2f2;
+    border: 12px solid black ;
+    border-radius: 10px;
+    background-image: url("rent.png");
+    background-position: center;
+}
+input[type="text"],input[type=email],input[type="number"],input[type="date"],select{
+    width: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 5px;
+}
