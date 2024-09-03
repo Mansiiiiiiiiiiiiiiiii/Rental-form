@@ -36,7 +36,7 @@ The form is complemented with a background image for aesthetic appeal.
 ## Usage
 
 1. Clone the repository.
-2. Open `index.html` in your web browser to access the renting form.
+2. Open `rental.html` in your web browser to access the renting form.
 
 ## Technologies Used
 
